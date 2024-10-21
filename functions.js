@@ -1,7 +1,5 @@
 const sentence = document.querySelector('#texto');
 const boton = document.querySelector('#boton');
-const resultado = document.querySelector('resultado'); 
-
 
 function getsentence() {
     // obtenemos el valor escrito por el usuario y lo almacenamos en una variable. 
